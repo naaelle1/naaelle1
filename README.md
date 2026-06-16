@@ -11,14 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="#current_state">current_state</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#familiar_tools">familiar_tools</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#archives">archives</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#patterns_of_activity">patterns_of_activity</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#the_corner">the_corner</a>
-</p>
-
-<p align="center">
   ⋆｡°✩ ☾ ✩°｡⋆
 </p>
 

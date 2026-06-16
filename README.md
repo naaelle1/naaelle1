@@ -71,13 +71,6 @@ repositories born simply because i cared about them.
 ### <samp><a id="patterns_of_activity">✩ patterns_of_activity</a></samp>
 
 automated proof that i was here.
-
-<!-- customized deep navy background, dusty lavender accents, off-white text -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=rose_pine&hide_border=true&title_color=9ccfd8&text_color=e0def4&icon_color=c4a7e7&bg_color=191724" alt="Stats" height="135px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=rose_pine&hide_border=true&title_color=9ccfd8&text_color=e0def4&bg_color=191724&langs_count=4" alt="Languages" height="135px" />
-</p>
-
 <!-- custom lavender snake on a dark background. dots match palette -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/naaelle1/naaelle1/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
@@ -101,6 +94,3 @@ a small slice of analog-to-digital reality.
   ⋆｡°✩ ☾ ✩°｡⋆
 </p>
 
-<p align="center">
-  <sub><i>made quietly, somewhere between write-ups and unfinished figma files.</i></sub>
-</p>

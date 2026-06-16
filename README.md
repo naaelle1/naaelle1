@@ -45,21 +45,6 @@ the things i keep reaching for.
 
 ---
 
-### <samp><a id="archives">⋆ archives</a></samp>
-
-repositories born simply because i cared about them.
-
-#### [orbita-elok](https://github.com/naaelle1/orbita-elok)
-> experimenting with layouts, interfaces, and ideas that refuse to leave me alone.
-
-#### [writeupsCTF](https://github.com/naaelle1/writeupsCTF)
-> breadcrumbs from digital puzzles, written mostly for my future self.
-
-#### [all-eyes-on-papua](https://naaelle1/yourusername/all-eyes-on-papua)
-> information mapping and documented traces, gathered with intention and care.
-
----
-
 ### <samp><a id="patterns_of_activity">✩ patterns_of_activity</a></samp>
 
 automated proof that i was here.

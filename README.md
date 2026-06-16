@@ -55,18 +55,6 @@ automated proof that i was here.
 
 ---
 
-### <samp><a id="the_corner">☾ the_corner</a></samp>
-
-a small slice of analog-to-digital reality.
-
-⋆ **listening to:** cherry-coloured funk — cocteau twins  
-⋆ **reading:** file-system structures & old textfiles.com logs  
-⋆ **obsessed with:** dead internet theory, vhs tracking lines, and crt emulation  
-⋆ **open tabs:** an unreasonable amount  
-⋆ **coffee status:** iced, melting slowly  
-
----
-
 <p align="center">
   ⋆｡°✩ ☾ ✩°｡⋆
 </p>

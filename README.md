@@ -93,6 +93,3 @@ a small slice of analog-to-digital reality.
   ⋆｡°✩ ☾ ✩°｡⋆
 </p>
 
-<p align="center">
-  <sub><i>made quietly, somewhere between write-ups and unfinished figma files.</i></sub>
-</p>

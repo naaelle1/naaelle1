@@ -3,37 +3,43 @@
 </p>
 
 <p align="center">
-  <sub><i>"documenting what the wires leave behind."</i></sub>
+  <sub><i>"present day, present time."</i></sub>
 </p>
 
 <p align="center">
-  <b>elok</b> (naelle / nael) • learning to untangle digital footprints, design human interfaces, and find quiet spaces in obscure corners of the web.
+  <b>elok</b> (naelle / nael)
 </p>
 
 <p align="center">
-  <a href="#-current_state">current_state</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#-utility_belt">utility_belt</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#-archives">archives</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#-digital_residue">digital_residue</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#-the_corner">the_corner</a>
+  <a href="#current_state">current_state</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#familiar_tools">familiar_tools</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#archives">archives</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#patterns_of_activity">patterns_of_activity</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#the_corner">the_corner</a>
+</p>
+
+<p align="center">
+  ⋆｡°✩ ☾ ✩°｡⋆
 </p>
 
 ---
 
-### <samp>🛸 current_state</samp>
+### <samp><a id="current_state">☾ current_state</a></samp>
 
-spending nights observing how things break, how systems communicate, and how people interact with screens.
+trying to understand how things work,  
+how they break,  
+and how people choose to use them.
 
-*   **studying:** network and information systems (sija) by day.
-*   **investigating:** memory dumps, file system anomalies, and picoctf challenges by night.
-*   **mapping:** writing down text-heavy ctfs write-ups so i don't forget how i got there.
-*   **sketching:** shaping interfaces in figma, focusing on layout pacing and clean typography.
+⋆ studying network and information systems (sija).  
+⋆ learning digital forensics through picoctf and late-night write-ups.  
+⋆ documenting processes so future me can retrace old paths.  
+⋆ sketching interfaces in figma with an obsession for spacing and typography.
 
 ---
 
-### <samp>🛠️ utility_belt</samp>
+### <samp><a id="familiar_tools">✦ familiar_tools</a></samp>
 
-the tools i keep reaching for when i build or dissect things. keeping it minimal and deliberate.
+the things i keep reaching for.
 
 <p align="left">
   <img src="https://img.shields.io/badge/python-1a1b26?style=flat&logo=python&logoColor=cfc9ec" alt="Python" />
@@ -46,45 +52,46 @@ the tools i keep reaching for when i build or dissect things. keeping it minimal
 
 ---
 
-### <samp>📂 archives</samp>
+### <samp><a id="archives">⋆ archives</a></samp>
 
-projects and text repositories born simply because i cared about them.
+repositories born simply because i cared about them.
 
-#### 🌌 [orbita-elok](https://github.com/yourusername/orbita-elok)
-> a quiet repository for structural experimentation. playing around with front-end code, layouts, and interface behaviors that feel comfortable rather than trendy.
+#### [orbita-elok](https://github.com/yourusername/orbita-elok)
+> experimenting with layouts, interfaces, and ideas that refuse to leave me alone.
 
-#### 🕵️‍♂️ [writeupsCTF](https://github.com/yourusername/writeupsCTF)
-> a log of digital traces. notes, forensic artifacts, and logical steps taken during picoctf challenges. written mostly for my future self to retrace old paths.
+#### [writeupsCTF](https://github.com/yourusername/writeupsCTF)
+> breadcrumbs from digital puzzles, written mostly for my future self.
 
-#### 🗺️ [all-eyes-on-papua](https://github.com/yourusername/all-eyes-on-papua)
-> a collection of data, information mapping, and digital footprints regarding the papua region. structural, intentional, and documented with care.
-
----
+#### [all-eyes-on-papua](https://github.com/yourusername/all-eyes-on-papua)
+> information mapping and documented traces, gathered with intention and care.
 
 ---
 
-### <samp>🔮 ⌁ patterns of activity</samp>
+### <samp><a id="patterns_of_activity">✩ patterns_of_activity</a></samp>
 
-automated proof of late-night activity in the terminal.
+automated proof that i was here.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naaelle1/naaelle1/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/naaelle1/naaelle1/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </p>
 
 ---
----
 
-### <samp>🧷 the_corner</samp>
+### <samp><a id="the_corner">☾ the_corner</a></samp>
 
 a small slice of analog-to-digital reality.
 
-*   **listening to:** *cherry-coloured funk* — cocteau twins
-*   **reading:** forensics file-system structures & old textfiles.com logs
-*   **obsessed with:** dead internet theory, vhs tracking lines, and crt emulation
-*   **open tabs:** 37 (mostly documentation and forgotten figma canvases)
-*   **coffee status:** iced, melting slowly
+⋆ **listening to:** cherry-coloured funk — cocteau twins  
+⋆ **reading:** file-system structures & old textfiles.com logs  
+⋆ **obsessed with:** dead internet theory, vhs tracking lines, and crt emulation  
+⋆ **open tabs:** an unreasonable amount  
+⋆ **coffee status:** iced, melting slowly  
 
 ---
+
+<p align="center">
+  ⋆｡°✩ ☾ ✩°｡⋆
+</p>
 
 <p align="center">
   <sub><i>made quietly, somewhere between write-ups and unfinished figma files.</i></sub>

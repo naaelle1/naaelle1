@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/r_1bvKSep6wAAAAd/serial-experiments-lain-lain.gif" alt="wired" width="550px" />
+  <img src="https://media1.tenor.com/m/r_1bvKSep6wAAAAd/serial-experiments-lain-lain.gif" alt="wired" width="400px" />
 </p>
 
 <p align="center">
@@ -42,6 +42,7 @@ and how people choose to use them.
 the things i keep reaching for.
 
 <p align="left">
+  <!-- uniform dusty lavender badges with a deep navy body -->
   <img src="https://img.shields.io/badge/python-1a1b26?style=flat&logo=python&logoColor=cfc9ec" alt="Python" />
   <img src="https://img.shields.io/badge/linux-1a1b26?style=flat&logo=linux&logoColor=cfc9ec" alt="Linux" />
   <img src="https://img.shields.io/badge/javascript-1a1b26?style=flat&logo=javascript&logoColor=cfc9ec" alt="JavaScript" />
@@ -56,13 +57,13 @@ the things i keep reaching for.
 
 repositories born simply because i cared about them.
 
-#### [orbita-elok](https://github.com/yourusername/orbita-elok)
+#### [orbita-elok](https://github.com/naaelle1/orbita-elok)
 > experimenting with layouts, interfaces, and ideas that refuse to leave me alone.
 
-#### [writeupsCTF](https://github.com/yourusername/writeupsCTF)
+#### [writeupsCTF](https://github.com/naaelle1/writeupsCTF)
 > breadcrumbs from digital puzzles, written mostly for my future self.
 
-#### [all-eyes-on-papua](https://github.com/yourusername/all-eyes-on-papua)
+#### [all-eyes-on-papua](https://naaelle1/yourusername/all-eyes-on-papua)
 > information mapping and documented traces, gathered with intention and care.
 
 ---
@@ -71,6 +72,13 @@ repositories born simply because i cared about them.
 
 automated proof that i was here.
 
+<!-- customized deep navy background, dusty lavender accents, off-white text -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=rose_pine&hide_border=true&title_color=9ccfd8&text_color=e0def4&icon_color=c4a7e7&bg_color=191724" alt="Stats" height="135px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=rose_pine&hide_border=true&title_color=9ccfd8&text_color=e0def4&bg_color=191724&langs_count=4" alt="Languages" height="135px" />
+</p>
+
+<!-- custom lavender snake on a dark background. dots match palette -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/naaelle1/naaelle1/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </p>
@@ -93,3 +101,6 @@ a small slice of analog-to-digital reality.
   ⋆｡°✩ ☾ ✩°｡⋆
 </p>
 
+<p align="center">
+  <sub><i>made quietly, somewhere between write-ups and unfinished figma files.</i></sub>
+</p>

@@ -23,7 +23,7 @@ how they break,
 and how people choose to use them.
 
 ⋆ studying network and information systems (sija).  
-⋆ learning digital forensics through picoctf and late-night write-ups.  
+⋆ learning digital forensics.
 ⋆ documenting processes so future me can retrace old paths.  
 ⋆ sketching interfaces in figma with an obsession for spacing and typography.
 

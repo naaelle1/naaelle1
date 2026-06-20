@@ -14,6 +14,7 @@
   ⋆｡°✩ ☾ ✩°｡⋆
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=naaelle1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="naaelle1" style="margin-bottom: 10px;" />
 ---
 
 ### <samp><a id="current_state">☾ current_state</a></samp>

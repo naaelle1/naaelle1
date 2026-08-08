@@ -1,51 +1,35 @@
+
+# Hi there 👋, I'm Elok
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&center=false&vCenter=true&width=600&lines=Information+Systems+%26+Networking+Student;Cybersecurity+Enthusiast;Digital+Forensics+Learner;UI%2FUX+%26+Web+Development)](https://git.io/typing-svg)
+
 <p align="center">
   <img src="https://media1.tenor.com/m/r_1bvKSep6wAAAAd/serial-experiments-lain-lain.gif" alt="wired" width="500px" />
 </p>
 
-<h2 align="center">Hiii, I'm Elok</h2>
+I'm an Information Systems & Networking student with an interest in **cybersecurity, digital forensics, web development, and UI/UX**.
 
-<p align="center">
-  <i>System information student • cybersecurity • web • UI/UX</i>
-</p>
+I enjoy understanding how things work, figuring out why they break, and building things along the way.
 
-<p align="center">
-  ⋆｡°✩ ☾ ✩°｡⋆
-</p>
+### About Me
 
----
+* **Name:** Elok
+* **Focus:** Information Systems & Networking
+* **Interests:** Cybersecurity · Digital Forensics · Web Development · UI/UX
+* **Currently learning:** Linux · Networking · Web Security · React
 
-### <samp>☾ currently</samp>
+### Familiar With
 
-trying to understand how things work,
-how they break,
-and why they suddenly stop working.
+`Linux` `Networking` `Python` `JavaScript` `React` `Figma`
 
-studying networks & information systems,
-while slowly getting into cybersecurity, digital forensics,
-web development, and UI/UX.
+### What I'm Up To
 
----
+Currently learning, experimenting, and working on small projects to turn what I learn into something practical.
 
-### <samp>✦ familiar_with</samp>
+### 📫 Let's Connect
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,js,html,css,figma&theme=dark" height="60" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1a1b26?style=for-the-badge&logo=wireshark&logoColor=cfc9ec" />
-  <img src="https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=cfc9ec" />
-  <img src="https://img.shields.io/badge/Figma-1a1b26?style=for-the-badge&logo=figma&logoColor=cfc9ec" />
-</p>
+Feel free to explore my repositories and see what I'm working on.
 
 ---
-
-### <samp>✩ patterns_of_activity</samp>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/naaelle1/naaelle1/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</p>
-
-<p align="center">
-  ⋆｡°✩ ☾ ✩°｡⋆
 </p>

@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/r_1bvKSep6wAAAAd/serial-experiments-lain-lain.gif" alt="wired" width="500px" />
 </p>
 
-<h2 align="center">Hiii, I'm Nael</h2>
+<h2 align="center">Hiii, I'm Elok</h2>
 
 <p align="center">
   <i>System information student • cybersecurity • web • UI/UX</i>

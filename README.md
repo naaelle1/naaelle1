@@ -1,6 +1,6 @@
 
 # Hi there 👋, I'm Elok
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&center=false&vCenter=true&width=600&lines=Information+Systems+%26+Networking+Student;Cybersecurity+Enthusiast;Digital+Forensics+Learner;UI%2FUX+%26+Web+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=false&vCenter=true&width=600&lines=Information+Systems+%26+Networking+Student;Cybersecurity+Enthusiast;Digital+Forensics+Learner;UI%2FUX+%26+Web+Development)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://media1.tenor.com/m/r_1bvKSep6wAAAAd/serial-experiments-lain-lain.gif" alt="wired" width="500px" />

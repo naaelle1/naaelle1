@@ -8,15 +8,6 @@
 
 I'm an Information Systems & Networking student with an interest in **cybersecurity, digital forensics, web development, and UI/UX**.
 
-I enjoy understanding how things work, figuring out why they break, and building things along the way.
-
-### About Me
-
-* **Name:** Elok
-* **Focus:** Information Systems & Networking
-* **Interests:** Cybersecurity · Digital Forensics · Web Development · UI/UX
-* **Currently learning:** Linux · Networking · Web Security · React
-
 ### Familiar With
 
 `Linux` `Networking` `Python` `JavaScript` `React` `Figma`
@@ -24,10 +15,6 @@ I enjoy understanding how things work, figuring out why they break, and building
 ### What I'm Up To
 
 Currently learning, experimenting, and working on small projects to turn what I learn into something practical.
-
-### 📫 Let's Connect
-
-Feel free to explore my repositories and see what I'm working on.
 
 ---
 <p align="center">

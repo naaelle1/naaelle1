@@ -12,10 +12,6 @@ I'm an Information Systems & Networking student with an interest in **cybersecur
 
 `Linux` `Networking` `Python` `JavaScript` `React` `Figma`
 
-### What I'm Up To
-
-Currently learning, experimenting, and working on small projects to turn what I learn into something practical.
-
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/naaelle1/naaelle1/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />

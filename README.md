@@ -22,68 +22,6 @@ I enjoy learning through hands-on projects, building web interfaces, exploring c
 
 <br>
 
-# 🛠️ Technologies & Tools
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express&perline=4" />
-</p>
-
-### 🎨 Design
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma&perline=4" />
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🐧 Systems & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,vscode&perline=4" />
-</p>
-
-### 🔐 Cybersecurity
-
-`Networking` · `Digital Forensics`
-`Web Security` · `CTF`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-# 📚 What I'm Learning
-
-<table>
-<tr>
-<td width="50%">
-
-🔐 **Cybersecurity**
-🕵🏻 **Digital Forensics**
-🌐 **Network Security**
-
-</td>
-
-<td width="50%">
-
-💻 **Modern Web Development**
-🎨 **UI/UX & Design Systems**
-🐧 **Linux Administration**
-
-</td>
-</tr>
-</table>
-
-<br>
 
 # 📊 GitHub Activity
 

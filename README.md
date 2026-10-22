@@ -22,10 +22,6 @@ I enjoy learning through hands-on projects, building web interfaces, exploring c
 
 <br>
 
-
-# 📊 GitHub Activity
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/naaelle1/naaelle1/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
 </p>
